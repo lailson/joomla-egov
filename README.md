@@ -37,5 +37,5 @@ Algumas referências para utilização
 
 ## Autor
 
-* **Lailson Henrique** - *Initial work* - [PurpleBooth](https://github.com/lailson)
+* **Lailson Henrique**  - [git](https://github.com/lailson)
 

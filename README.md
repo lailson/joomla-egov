@@ -14,12 +14,15 @@ Algumas referências para utilização
 
 ### Utilização
 
-#### Variáveis de ambiente
+#### Pre requisitos
+* `Docker` - A Description
+* `Docker compose` - A Description
 
-* `JOOMLA_DB_HOST` - A Description
-* `JOOMLA_DB_USER` - More Description
-* `JOOMLA_DB_PASSWORD` - And another
-* `JOOMLA_DB_NAME` - And another
+#### Variáveis de ambiente
+* `JOOMLA_DB_HOST` - Nome da máquina
+* `JOOMLA_DB_USER` - Usuário do banco
+* `JOOMLA_DB_PASSWORD` - Senha do root
+* `JOOMLA_DB_NAME` - Nome do banco 
 
 
 
